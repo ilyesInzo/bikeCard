@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "bikeCard",
+  "namespace": "",
+  "sfdcLoginUrl": "https://empathetic-badger-lqebjf-dev-ed.my.salesforce.com",
+  "sourceApiVersion": "52.0"
+}
